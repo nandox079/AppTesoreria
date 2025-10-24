@@ -1,0 +1,4 @@
+.env
+mock_uploads/
+.DS_Store
+node_modules/

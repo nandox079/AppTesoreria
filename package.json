@@ -1,0 +1,11 @@
+{
+  "name": "apptesoreria",
+  "version": "1.0.0",
+  "description": "Prototipo de interfaz para cargar comprobantes a Google Drive y registrarlos en Google Sheets.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
